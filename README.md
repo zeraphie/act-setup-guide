@@ -32,3 +32,5 @@ My settings for the kagerou overlay for ACT
     3. Click on the first dropdown you see on the right hand side, change the overlay to english
     4. Click on the button in the top right of the settings to save
     5. (Optional) Go to Import/Export and paste in the code from the [export](export.txt) file and click on import
+
+***Always remember to start ACT as administrator!***
