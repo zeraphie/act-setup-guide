@@ -23,9 +23,10 @@ My settings for the kagerou overlay for ACT
 
 ## Installing the Overlay
 1. Download the [Overlay Plugin](https://github.com/hibiyasleep/OverlayPlugin/releases/tag/0.3.3.11)
-2. Right click the zip file, click on properties, then check "Unblock" and apply
+3. Download the zip file from here at the top of the page http://billyvg.github.io/OverlayPlugin-themes/
+2. Right click both zip files, click on properties, then check "Unblock" and apply
 3. Add it to ACT then navigate to it in the plugins page
-4. Input this url https://hibiyasleep.github.io/kagerou/overlay into the URL box of the Mini Parser tab
+4. Click on the mini parse and click on the triple dot next to the url box, and navigate to the extracted overlay plugin themes directory, and select the html file that you like, I'd recommend the Hibiyasleep Kagerou pointer as there's an export that's handy for stormblood below
 5. Input some settings as you wish, recommended settings are below:
     1. Click on the three vertical dots on the top right hand of the overlay
     2. Click on the cog
