@@ -17,8 +17,12 @@ My settings for the kagerou overlay for ACT
 4. Remove the FFXIV Overlay (Top right in ACT)
 5. Go to Options -> Main Table/Encounters -> General
     1. Change "Number of seconds to wait after the last combat action to begin a new counter." to 30
-6. Go to Plugins -> FFXIV Settings
-    1. Go to Parse Options and check Combine Pets with Owner
+6. Go to Plugins
+    1. Click "Browse..."
+    2. Find the dll file that you downloaded as the FFXIV Plugin (it'll be FFXIV_ACT_Plugin.dll as default)
+    3. Click on Add/Enable Plugin
+    4. Go to FFXIV Settings
+        1. Go to Parse Options and check Combine Pets with Owner
 7. You should now be able to see your damage automatically updating in the Main window
 
 ## Installing the Overlay
