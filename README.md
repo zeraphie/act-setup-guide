@@ -15,8 +15,20 @@ My settings for the kagerou overlay for ACT
     6. Click "OK"
     7. Exit Firewall and restart (preferably your computer)
 4. Remove the FFXIV Overlay (Top right in ACT)
-5. Go to Options -> Main Table/Encounters -> General
-    1. Change "Number of seconds to wait after the last combat action to begin a new counter." to 30
+5. Go to Options
+    1. Main Table/Encounters -> General
+        1. Change "Number of seconds to wait after the last combat action to begin a new counter." to 30
+    2. Output Display -> Text Export Settings
+        1. Click on add preset in the top right
+        2. Click on "Edit Directly" under "Allies Formatting" and paste the following
+            1. `({duration}) {title}: {ENCDPS} | {maxhit}`
+            2. Press Save
+        3. Click on "Edit Directly" under "Per-combat Formatting" and paste the following
+            1. ` | {NAME5} -> {ENCDPS}`
+            2. Press Save
+        4. Click "Add Text Format Preset"
+        5. Change the "Clipboard Formatting" option to the newly created setting which will be as below
+            1. `(EncDPS) " | {NAME5} -> {ENCDPS}`
 6. Go to Plugins
     1. Click "Browse..."
     2. Find the dll file that you downloaded as the FFXIV Plugin (it'll be FFXIV_ACT_Plugin.dll as default)
