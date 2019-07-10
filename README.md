@@ -59,4 +59,5 @@ This is a step by step guide that should be able to help anyone install ACT and 
 1. Right click the shortcut
 2. Click on Properties
 3. On the Shortcut tab, click on Advanced
-4. Check "Run as Administrator" and OK everything
+4. Check "Run as Administrator" and OK
+5. Apply the changes and click on Continue when asked
