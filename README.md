@@ -1,8 +1,12 @@
-# Kagerou Settings
-My settings for the kagerou overlay for ACT
+# Advanced Combat Tracker Setup
+This is a step by step guide that should be able to help anyone install ACT and a nice overlay for it for their own improvement. These settings also work for fflogs ([here's the downloader for that](https://www.fflogs.com/client/download/)) uploading.
+
+*Note: This only has been tested on Windows 10*
+
+***Always remember to start ACT as administrator!***
 
 ## Pre-requisits
-1. Go to the [ACT Page](http://advancedcombattracker.com/) and download the advanced combat tracker
+1. Go to the [ACT Page](https://advancedcombattracker.com/download.php) and download the advanced combat tracker
 2. Download the [FFXIV Plugin](http://advancedcombattracker.com/includes/page-download.php?id=66)
 3. Open the Windows Firewall application (This is for Windows 10)
     1. Click on "Allow an app or feature through Windows Firewall"
@@ -50,4 +54,9 @@ My settings for the kagerou overlay for ACT
     4. Click on the button in the top right of the settings to save
     5. (Optional) Go to Import/Export and paste in the code from the [export](export.txt) file and click on import
 
-***Always remember to start ACT as administrator!***
+
+## Setting ACT to default run as Admin
+1. Right click the shortcut
+2. Click on Properties
+3. On the Shortcut tab, click on Advanced
+4. Check "Run as Administrator" and OK everything
