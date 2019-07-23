@@ -63,6 +63,8 @@ In order to setup ACT to be used with fflogs you need to make sure that your par
     4. Click on the button in the top right of the settings to save
     5. (Optional) Go to Import/Export and paste in the code from the [export](export.txt) file and click on import
 
+![DPS Example](act-overlay-example-dps.PNG)
+![Healer Example](act-overlay-example-healer.PNG)
 
 ## Setting ACT to default run as Admin
 1. Right click the shortcut
