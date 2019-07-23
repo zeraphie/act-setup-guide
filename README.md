@@ -5,14 +5,17 @@ This is a step by step guide that should be able to help anyone install ACT and 
 
 ***Always remember to start ACT as administrator!***
 
-## Pre-requisits
+## Installing ACT
 1. Go to the [ACT Page](https://advancedcombattracker.com/download.php) and download the advanced combat tracker
 2. Download the [FFXIV Plugin](http://advancedcombattracker.com/includes/page-download.php?id=66)
 3. If you're not worried about FFLogs you can use the `Parse Mode` of `Memory` but it is inaccurate (it'll at least give you a starting point!). If you want to set it up accurately however, check the [Usage with FFLogs](#usage-with-fflogs) section.
-4. Remove the FFXIV Overlay (Top right in ACT)
+4. Remove the FFXIV Overlay (Top right in ACT), you may also need to do the following to remove the large HP bar that gets added in (sometimes it gets re-added with an update to ACT)
+    1. Go to Plugins
+    2. Go to FFXIV Overlay Settings
+    3. On each tab (Target, Focus Target, Hover Target, Target of Target) check the `Hide Overlay` checkbox
 5. Go to Options
     1. Main Table/Encounters -> General
-        1. Change "Number of seconds to wait after the last combat action to begin a new counter." to 30
+        1. Change "Number of seconds to wait after the last combat action to begin a new counter." to 30 (this is a setting required for FFLogs as well)
     2. Output Display -> Text Export Settings
         1. Click on add preset in the top right
         2. Click on "Edit Directly" under "Allies Formatting" and paste the following
