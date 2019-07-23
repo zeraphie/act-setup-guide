@@ -8,15 +8,15 @@ This is a step by step guide that should be able to help anyone install ACT and 
 ## Installing ACT
 1. Go to the [ACT Page](https://advancedcombattracker.com/download.php) and download the advanced combat tracker
 2. Download the [FFXIV Plugin](http://advancedcombattracker.com/includes/page-download.php?id=66)
-3. If you're not worried about FFLogs you can use the `Parse Mode` of `Memory` but it is inaccurate (it'll at least give you a starting point!). If you want to set it up accurately however, check the [Usage with FFLogs](#usage-with-fflogs) section.
-4. Remove the FFXIV Overlay (Top right in ACT), you may also need to do the following to remove the large HP bar that gets added in (sometimes it gets re-added with an update to ACT)
+3. `[Optional]` If you're not worried about FFLogs you can use the `Parse Mode` of `Memory` but it is inaccurate (it'll at least give you a starting point!). If you want to set it up accurately however, check the [Usage with FFLogs](#usage-with-fflogs) section.
+4. `[Optional]` Remove the FFXIV Overlay (Top right in ACT), you may also need to do the following to remove the large HP bar that gets added in (sometimes it gets re-added with an update to ACT).
     1. Go to Plugins
     2. Go to FFXIV Overlay Settings
     3. On each tab (Target, Focus Target, Hover Target, Target of Target) check the `Hide Overlay` checkbox
 5. Go to Options
     1. Main Table/Encounters -> General
         1. Change "Number of seconds to wait after the last combat action to begin a new counter." to 30 (this is a setting required for FFLogs as well)
-    2. Output Display -> Text Export Settings
+    2. `[Optional]` Output Display -> Text Export Settings - Sets up pasting parsing to a readable single line
         1. Click on add preset in the top right
         2. Click on "Edit Directly" under "Allies Formatting" and paste the following
             1. `({duration}) {title}: {ENCDPS} | {maxhit}`
@@ -53,7 +53,7 @@ In order to setup ACT to be used with fflogs you need to make sure that your par
 3. Download the zip file from here at the top of the page http://billyvg.github.io/OverlayPlugin-themes/
 2. Right click both zip files, click on properties, then check "Unblock" and apply
 3. Add it to ACT then navigate to it in the plugins page
-4. Click on the mini parse and click on the triple dot next to the url box, and navigate to the extracted overlay plugin themes directory, and select the html file that you like, I'd recommend the Hibiyasleep Kagerou pointer as there's an export that's handy for stormblood below
+4. Click on the mini parse and click on the triple dot next to the url box, and navigate to the extracted overlay plugin themes directory, and select the html file that you like, I'd recommend the Hibiyasleep Kagerou pointer as there's an export that's handy for FFXIV below
 5. Input some settings as you wish, recommended settings are below:
     1. Click on the three vertical dots on the top right hand of the overlay
     2. Click on the cog
