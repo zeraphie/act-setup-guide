@@ -17,7 +17,7 @@ This is a step by step guide that should be able to help anyone install ACT and 
     3. On each tab (Target, Focus Target, Hover Target, Target of Target) check the `Hide Overlay` checkbox
 5. Go to Options
     1. Main Table/Encounters -> General
-        1. Change "Number of seconds to wait after the last combat action to begin a new counter." to 30 (this is a setting required for FFLogs as well)
+        1. Change "Number of seconds to wait after the last combat action to begin a new counter." to 60 (this is a setting required for FFLogs as well)
     2. `[Optional]` Output Display -> Text Export Settings - Sets up pasting parsing to a readable single line
         1. Click on add preset in the top right
         2. Click on "Edit Directly" under "Allies Formatting" and paste the following
