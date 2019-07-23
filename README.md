@@ -22,7 +22,7 @@ This is a step by step guide that should be able to help anyone install ACT and 
             1. `({duration}) {title}: {ENCDPS} | {maxhit}`
             2. Press Save
         3. Click on "Edit Directly" under "Per-combat Formatting" and paste the following
-            1. <code>&nbsp;| {NAME5} -> {ENCDPS}</code>
+            1. <code>&nbsp;| {NAME5} -> {ENCDPS}</code> (The initial space is important too!)
             2. Press Save
         4. Click "Add Text Format Preset"
         5. Change the "Clipboard Formatting" option to the newly created setting which will be as below
