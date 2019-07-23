@@ -1,3 +1,5 @@
+![Living Document](https://img.shields.io/badge/Document%20Type-Living-brightgreen.svg)
+
 # Advanced Combat Tracker Setup
 This is a step by step guide that should be able to help anyone install ACT and a nice overlay for it for their own improvement. These settings also work for fflogs uploading ([here's the downloader for that](https://www.fflogs.com/client/download/)).
 
