@@ -53,8 +53,8 @@ In order to setup ACT to be used with fflogs you need to make sure that your par
 3. Download the zip file from here at the top of the page http://billyvg.github.io/OverlayPlugin-themes/
 2. Right click both zip files, click on properties, then check "Unblock" and apply
 3. Add it to ACT then navigate to it in the plugins page
-4. Click on the mini parse and click on the triple dot next to the url box, and navigate to the extracted overlay plugin themes directory, and select the html file that you like, I'd recommend the Hibiyasleep Kagerou pointer as there's an export that's handy for FFXIV below
-5. Input some settings as you wish, recommended settings are below:
+4. Click on the mini parse and click on the triple dot next to the url box, and navigate to the extracted overlay plugin themes directory, and select the html file that you like, I'd recommend the `Hibiyasleep_Kagerou_pointer` theme as there's an export that's handy below
+5. Input some settings as you wish, recommended settings for `Hibiyasleep_Kagerou_pointer` are below:
     1. Click on the three vertical dots on the top right hand of the overlay
     2. Click on the cog
     3. Click on the first dropdown you see on the right hand side, change the overlay to english
