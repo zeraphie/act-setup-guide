@@ -36,7 +36,9 @@ This is a step by step guide that should be able to help anyone install ACT and 
     2. Find the dll file that you downloaded as the FFXIV Plugin (it'll be FFXIV_ACT_Plugin.dll as default)
     3. Click on Add/Enable Plugin
     4. Go to FFXIV Settings
-        1. Go to Parse Options and check Combine Pets with Owner
+        1. Go to Parse Options
+        1. Check Disable Damage Shield estimates
+        1. Check Disable Combine Pets with Owner
 7. You should now be able to see your damage automatically updating in the Main window
 
 ## Usage with FFLogs
@@ -70,10 +72,10 @@ I've also added an [export](export.txt) file that comes with some very handy set
 4. Click on the button in the top right of the settings to save
 5. (Optional) Go to Import/Export and paste in the code from the [export](export.txt) file and click on import
 
-**DPS Kagerou Example**
+#### DPS Kagerou Example
 ![DPS Example](act-overlay-example-dps.PNG)
 
-**Healer Kagerou Example**
+#### Healer Kagerou Example
 ![Healer Example](act-overlay-example-healer.PNG)
 
 ## Setting ACT to default run as Admin
