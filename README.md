@@ -41,6 +41,15 @@ This is a step by step guide that should be able to help anyone install ACT and 
         1. Check Disable Combine Pets with Owner
 7. You should now be able to see your damage automatically updating in the Main window
 
+## Setting ACT to default run as Admin
+The following steps will set the shortcut created for ACT to always run as admin, you will need to confirm the window each time it opens as a result.
+
+1. Right click the shortcut
+2. Click on Properties
+3. On the Shortcut tab, click on Advanced
+4. Check "Run as Administrator" and OK
+5. Apply the changes and click on Continue when asked
+
 ## Usage with FFLogs
 In order to setup ACT to be used with fflogs you need to make sure that your parse mode is set to `Network`. In order to do this, you also need to make sure that it passes through the firewall as follows
 
@@ -77,10 +86,3 @@ I've also added an [export](export.txt) file that comes with some very handy set
 
 #### Healer Kagerou Example
 ![Healer Example](act-overlay-example-healer.PNG)
-
-## Setting ACT to default run as Admin
-1. Right click the shortcut
-2. Click on Properties
-3. On the Shortcut tab, click on Advanced
-4. Check "Run as Administrator" and OK
-5. Apply the changes and click on Continue when asked
