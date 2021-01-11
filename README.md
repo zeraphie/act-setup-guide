@@ -82,7 +82,7 @@ I've also added an [export](export.txt) file that comes with some very handy set
 5. (Optional) Go to Import/Export and paste in the code from the [export](export.txt) file and click on import
 
 #### DPS Kagerou Example
-![DPS Example](act-overlay-example-dps.PNG)
+![DPS Example](act-overlay-example-dps.png)
 
 #### Healer Kagerou Example
-![Healer Example](act-overlay-example-healer.PNG)
+![Healer Example](act-overlay-example-heal.PNG)
