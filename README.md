@@ -64,22 +64,13 @@ In order to setup ACT to be used with fflogs you need to make sure that your par
 7. Exit Firewall and restart (preferably your computer)
 
 ## Installing the Overlay
-1. Download the [Overlay Plugin](https://github.com/hibiyasleep/OverlayPlugin/releases/tag/0.3.3.11)
-3. Download the zip file from here at the top of the page http://billyvg.github.io/OverlayPlugin-themes/
-2. Right click both zip files, click on properties, then check "Unblock" and apply
-3. Add it to ACT then navigate to it in the plugins page
-4. Click on the mini parse and click on the triple dot next to the url box, and navigate to the extracted overlay plugin themes directory, and select the html file that you like, I'd recommend the `Hibiyasleep_Kagerou_pointer` theme which you'll find some easy to follow instructions below
-    
-### The Kagerou Overlay
-The `Hibiyasleep_Kagerou_pointer` theme for the overlay provides a nice and customisable version that doesn't really obstruct your view of the game, and in particular has highly interchangeable columns and the ability to create new tabs to switch to for different types of content or data that you want to keep track of
-
-I've also added an [export](export.txt) file that comes with some very handy settings to get you up and running quickly! To use this export, follow the instructions below
-
-1. Click on the three vertical dots on the top right hand of the overlay
-2. Click on the cog
-3. Click on the first dropdown you see on the right hand side, change the overlay to english
-4. Click on the button in the top right of the settings to save
-5. (Optional) Go to Import/Export and paste in the code from the [export](export.txt) file and click on import
+1. Download the [Overlay Plugin](https://github.com/ngld/OverlayPlugin)
+2. Select Kagerou from the New list
+3. Click on the three vertical dots on the top right hand of the overlay
+4. Click on the cog
+5. Click on the first dropdown you see on the right hand side, change the overlay to english
+6. Click on the button in the top right of the settings to save
+7. (Optional) Go to Import/Export and paste in the code from the [export](export.txt) file and click on import
 
 #### DPS Kagerou Example
 ![DPS Example](act-overlay-example-dps.png)
